@@ -6,7 +6,7 @@ Multiple machine learning models were trained and evaluated to determine the bes
 - **Random Forest (RF)**
 - **Decision Tree (DT)**
 
-Each model was trained on the same dataset and evaluated using accuracy scores on both the training and testing sets. Among these, the **Random Forest (RF)** model was chosen as the final model due to its superior accuracy.
+Each model was trained on the same dataset and evaluated using accuracy scores on both the training and testing sets. Among these, the **Support Vector Machine (SVM)** model was chosen as the final model due to its superior accuracy.
 
 #### **Preprocessing and Feature Extraction**
 For Preprocessing and feature extraction the following methods were applied:

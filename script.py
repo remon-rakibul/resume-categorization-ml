@@ -13,7 +13,7 @@ from nltk.stem import PorterStemmer
 import PyPDF2
 
 
-with open('modelRF.pkl',"rb") as f:
+with open('modelSVM.pkl',"rb") as f:
     model = pickle.load(f)
 
 with open('vectorizer.pkl',"rb") as v:
